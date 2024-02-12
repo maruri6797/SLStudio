@@ -1,4 +1,4 @@
-package Practice;
+package Lesson2;
 
 //クラス定義
 public class Lesson2a {
